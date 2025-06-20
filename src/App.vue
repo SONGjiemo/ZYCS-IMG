@@ -1,13 +1,5 @@
 <template>
-<Header 
-  title="Mind——图床" 
-  desc="更多软件-<a 
-    href='https://bbs.mostmind.top'  
-    style='color: #1890ff; text-decoration: underline; cursor: pointer;' 
-    target='_blank' 
-    rel='noopener noreferrer'
-  >点我</a>" 
-/>  
+  <Header title="Mind——图床" desc="更多软件-月见网" />
   <main><RouterView /></main>
   <Footer />
   <Toaster />
