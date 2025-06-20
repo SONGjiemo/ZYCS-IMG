@@ -2,7 +2,7 @@
 <Header 
   title="Mind——图床" 
   desc="更多软件-<a 
-    href='https://example.com'  
+    href='https://bbs.mostmind.top'  
     style='color: #1890ff; text-decoration: underline; cursor: pointer;' 
     target='_blank' 
     rel='noopener noreferrer'
