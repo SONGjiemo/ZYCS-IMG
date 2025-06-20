@@ -1,5 +1,13 @@
 <template>
-  <Header title="骤雨重山图床" desc="拒绝流量劫持，全面使用HTTPS" />
+<Header 
+  title="Mind——图床" 
+  desc="更多软件-<a 
+    href='https://example.com'  
+    style='color: #1890ff; text-decoration: underline; cursor: pointer;' 
+    target='_blank' 
+    rel='noopener noreferrer'
+  >点我</a>" 
+/>  
   <main><RouterView /></main>
   <Footer />
   <Toaster />
